@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)]
+![MasterHead](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)
 <h1 align="center">Hi 👋, I'm Musharaf Aijaz Baba</h1>
 <h3 align="center">Crafting Next-Level Web3 & Web2 Experiences with NFT Mastery - Join Me for Cutting-Edge Creations</h3>
 <img align="right" alt="Animated Gif" width="400" src"https://www.nftfigure.org/wp-content/uploads/2022/05/yogies.gif">
