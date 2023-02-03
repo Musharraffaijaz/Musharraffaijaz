@@ -93,13 +93,31 @@
 
 <br/>  
 
-###
-<div align="center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraffaijaz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+## 🧰Languages 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraffaijaz&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>  
+<!-- ![Musharraffaijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&theme=gruvbox) -->
+<!-- ![Musharraffaijaz Streak](https://streak-stats.demolab.com?user=Musharraffaijaz&theme=gruvbox&border_radius=4.5) -->
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraffaijaz&layout=compact&theme=gruvbox" align="center" style="width: 50%"/>
+</div>
+
+<br/>
+
+##  📊Stats
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&theme=gruvbox" align="center" style="width: 50%"/>
+</div>
+
+<br/>
+
+##  🔥Streaks
+<div align="left">
+<img src="https://streak-stats.demolab.com?user=Musharraffaijaz&theme=gruvbox&border_radius=4.5" align="center" style="width: 50%"/>
+</div>
+
+<!-- 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>   -->
 
 <br/>  
 
