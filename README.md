@@ -98,21 +98,21 @@
 
 <!-- ![Musharraffaijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&theme=gruvbox) -->
 <!-- ![Musharraffaijaz Streak](https://streak-stats.demolab.com?user=Musharraffaijaz&theme=gruvbox&border_radius=4.5) -->
-<div align="left">
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musharraffaijaz&layout=compact&theme=gruvbox" align="center" style="width: 50%"/>
 </div>
 
 <br/>
 
 ##  📊Stats
-<div align="left">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Musharraffaijaz&show_icons=true&theme=gruvbox" align="center" style="width: 50%"/>
 </div>
 
 <br/>
 
 ##  🔥Streaks
-<div align="left">
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Musharraffaijaz&theme=gruvbox&border_radius=4.5" align="center" style="width: 50%"/>
 </div>
 
